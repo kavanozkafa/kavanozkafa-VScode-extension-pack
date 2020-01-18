@@ -1,2 +1,11 @@
-# kavanozkafa-VScode-extension-pack
-extension pack for DEV
+# kavanozkafa DEV extension pack
+
+## Included Extensions
+
+### Theme and Icons
+
+[Name of the Extension](LINK)
+
+[Name of the Extension](LINK)
+
+[Name of the Extension](LINK)
