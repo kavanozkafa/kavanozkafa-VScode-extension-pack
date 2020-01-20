@@ -69,6 +69,8 @@
         "shd101wyy.markdown-preview-enhanced", 
         "sidthesloth.html5-boilerplate", 
         "yzhang.markdown-all-in-one", 
-        "zhuangtongfa.material-theme"
+        "zhuangtongfa.material-theme",
+        "xabikos.ReactSnippets",
+        "jasonnutter.search-node-modules"
     ]
 }
