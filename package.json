@@ -71,6 +71,11 @@
         "yzhang.markdown-all-in-one", 
         "zhuangtongfa.material-theme",
         "xabikos.ReactSnippets",
-        "jasonnutter.search-node-modules"
+        "jasonnutter.search-node-modules",
+        "Shan.code-settings-sync",
+        "dsznajder.es7-react-js-snippets",
+        "Orta.vscode-jest",
+        "Tyriar.lorem-ipsum",
+        "joelday.docthis"
     ]
 }
